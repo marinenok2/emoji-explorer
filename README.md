@@ -4,6 +4,14 @@
 
 Explore emojis by category or group, browse pages of results, and click an emoji to view its details.
 
+## 🎬 Live Preview
+
+![Emoji Explorer demo](assets/emoji-explorer-demo.gif)
+
+*Watch the emoji browser in action — explore categories, switch groups, and browse pages.*
+
+## 📸 Screenshot
+
 ![Emoji Explorer screenshot](assets/screenshot.png)
 
 ## ✨ Features
@@ -51,7 +59,8 @@ emoji-explorer/
 ├── image/
 │   └── 9430268.jpg
 ├── assets/
-│   └── screenshot.png
+│   ├── screenshot.png
+│   └── emoji-explorer-demo.gif
 └── README.md
 ```
 
